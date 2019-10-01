@@ -20,13 +20,13 @@ To install this script, use pip:
 
 .. code-block:: console
 
-   $ pip install -e git+git://github.com/alexwlchan/backup-slack.git#egg=backup_slack
+   $ pip install -e git+git://github.com/InsuJeon/backup-slack.git#egg=backup_slack
 
 or `pipsi <https://github.com/mitsuhiko/pipsi>`_:
 
 .. code-block:: console
 
-   $ pipsi install -e git+git://github.com/alexwlchan/backup-slack.git#egg=backup_slack
+   $ pipsi install -e git+git://github.com/InsuJeon/backup-slack.git#egg=backup_slack
 
 You can use Python 2.7 and Python 3.3+.
 
